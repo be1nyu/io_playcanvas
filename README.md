@@ -10,6 +10,6 @@ PlayCanvas (.json) Import add-on for Blender
 
 ## Example
 
-kia.com - Kia Virtual Experience
-honda.co.jp - Configurator
-etc
+- kia.com - Kia Virtual Experience
+- honda.co.jp - Configurator
+- etc
