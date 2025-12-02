@@ -14,4 +14,4 @@
 2. honda.co.jp
 3. atv.polaris.com
 
-⚠️ This addon opens only PlayCanvas JSON files that you have saved yourself.
+⚠️ This addon imports only PlayCanvas JSON files that you have saved yourself.
