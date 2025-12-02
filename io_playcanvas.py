@@ -11,7 +11,7 @@ from bpy_extras.io_utils import ImportHelper
 bl_info = {
     "name": "PlayCanvas format",
     "author": "yubeen",
-    "version": (0, 1),
+    "version": (0, 0, 1),
     "blender": (4, 0, 0),
     "location": "File > Import > PlayCanvas (.json)",
     "description": "Import PlayCanvas models into active collection",
